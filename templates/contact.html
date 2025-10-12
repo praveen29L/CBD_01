@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Us</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        form { max-width: 500px; margin: auto; }
+        input, textarea { width: 100%; padding: 10px; margin: 5px 0; }
+        button { padding: 10px 20px; background: #4CAF50; color: white; border: none; cursor: pointer; }
+        .flash { color: red; }
+    </style>
+</head>
+<body>
+    <h1>Contact Us</h1>
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        {% for category, message in messages %}
+          <p class="flash">{{ message }}</p>
+        {% endfor %}
+      {% endif %}
+    {% endwith %}
+    <form method="POST">
+        <label>Name:</label>
+        <input type="text" name="name" required>
+        
+        <label>Email:</label>
+        <input type="email" name="email" required>
+        
+        <label>Subject:</label>
+        <input type="text" name="subject" required>
+        
+        <label>Message:</label>
+        <textarea name="message" rows="5" required></textarea>
+        
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,199 @@
+[
+  {"question": "Hello", "answer": "Hi there! How can I help you?"},
+  {"question": "Hi", "answer": "Hello! How are you today?"},
+  {"question": "Hey", "answer": "Hey! What’s up?"},
+  {"question": "Good morning", "answer": "Good morning! Hope you have a great day ahead."},
+  {"question": "Good afternoon", "answer": "Good afternoon! How can I assist you?"},
+  {"question": "Good evening", "answer": "Good evening! Still working hard?"},
+  {"question": "Good night", "answer": "Good night! Sweet dreams."},
+  {"question": "Bye", "answer": "Goodbye! Have a nice day."},
+  {"question": "See you later", "answer": "See you soon! Take care."},
+  {"question": "Who are you?", "answer": "I am your AI policy assistant for HR, IT, and organizational queries."},
+  {"question": "What is your name?", "answer": "I am your chat bot!"},
+  {"question": "Are you a human?", "answer": "No, I’m an AI chatbot designed to help you with policy questions."},
+  {"question": "How are you?", "answer": "I’m just a bot, but I’m doing great!"},
+  {"question": "What can you do?", "answer": "I can answer questions about HR policies, IT support, company events, facilities, and more."},
+  {"question": "Can you help me?", "answer": "Of course! Ask me anything related to organizational policies."},
+  {"question": "Where are you from?", "answer": "I was built to assist employees like you!"},
+  {"question": "What is your purpose?", "answer": "To provide quick, accurate answers about company policies and procedures."},
+  {"question": "Tell me a joke", "answer": "Why did the employee bring a ladder to work? Because they heard the promotion was on another level!"},
+  {"question": "Tell me something interesting", "answer": "Did you know? The Indian government grants 26 weeks of paid maternity leave!"},
+  {"question": "Tell me a fun fact", "answer": "Bananas are berries, but strawberries aren’t!"},
+  {"question": "What is Python?", "answer": "Python is a programming language used for web development, data analysis, and automation."},
+  {"question": "What is AI?", "answer": "AI stands for Artificial Intelligence — enabling machines to mimic human thinking."},
+  {"question": "What is machine learning?", "answer": "Machine learning is teaching computers to learn from data without explicit programming."},
+
+  
+  {"question": "What is the leave policy?", "answer": "Employees are entitled to 12 days of casual leave, 30 days of earned leave, and 15 days of sick leave per year."},
+  {"question": "How many casual leaves can I take?", "answer": "You can take up to 12 casual leaves per calendar year."},
+  {"question": "How many earned leaves do I get?", "answer": "You earn 2.5 days of earned leave per month, totaling 30 days per year."},
+  {"question": "What is sick leave?", "answer": "Sick leave is granted for medical reasons, up to 15 days per year with a medical certificate."},
+  {"question": "How do I apply for leave?", "answer": "Submit your leave request through the HR portal at least 3 working days in advance."},
+  {"question": "Can I carry forward my leave?", "answer": "Earned leave can be carried forward up to a maximum of 300 days. Casual leave lapses at year-end."},
+  {"question": "What is the maternity leave policy?", "answer": "Female employees are entitled to 26 weeks of paid maternity leave as per the Maternity Benefit Act."},
+  {"question": "What is paternity leave?", "answer": "Male employees get 15 days of paternity leave for the first two children."},
+  {"question": "What is the work from home policy?", "answer": "WFH is allowed for up to 2 days per week with prior manager approval and valid reason."},
+  {"question": "How do I apply for WFH?", "answer": "Submit a WFH request via the HR portal with justification and manager approval."},
+  {"question": "What is the probation period?", "answer": "The probation period is 1 year for new employees, extendable by 6 months if needed."},
+  {"question": "When is salary credited?", "answer": "Salary is credited on the last working day of every month."},
+  {"question": "How do I update my bank details?", "answer": "Update your bank account details through the HR portal under 'Personal Information'."},
+  {"question": "What is the appraisal cycle?", "answer": "Performance appraisals are conducted twice a year — in June and December."},
+  {"question": "How do I submit a reimbursement claim?", "answer": "Submit reimbursement claims through the HR portal under 'Reimbursements' with supporting bills."},
+  {"question": "What expenses are reimbursable?", "answer": "Medical, travel, telephone, and official training expenses are reimbursable as per policy."},
+  {"question": "How long does reimbursement take?", "answer": "Approved reimbursements are processed within 15 working days."},
+  {"question": "What is the retirement age?", "answer": "The normal retirement age is 60 years for all employees."},
+  {"question": "How do I apply for retirement?", "answer": "Submit retirement application 6 months in advance through the HR portal."},
+  {"question": "What is the grievance redressal process?", "answer": "Submit grievances anonymously via the HR portal or to the designated Grievance Officer."},
+  {"question": "Is there a dress code?", "answer": "Formal attire is required on all working days unless specified otherwise."},
+  {"question": "Can I take leave during probation?", "answer": "Yes, but only sick leave and emergency casual leave are allowed during probation."},
+  {"question": "What is earned leave encashment?", "answer": "Up to 300 days of earned leave can be encashed at the time of retirement or resignation."},
+  {"question": "How do I check my leave balance?", "answer": "View your leave balance in the HR portal under 'Leave Management'."},
+  {"question": "Can I combine casual and sick leave?", "answer": "Yes, with proper documentation and approval."},
+
+  
+  {"question": "How do I reset my email password?", "answer": "Use the 'Forgot Password' link on the webmail login page or contact IT helpdesk."},
+  {"question": "What is the IT helpdesk number?", "answer": "Call extension 5555 or email helpdesk@org.in for IT support."},
+  {"question": "How do I install software?", "answer": "Submit a software request via the IT portal. Installation requires approval."},
+  {"question": "My laptop is not working. What should I do?", "answer": "Raise a ticket on the IT portal or call extension 5555 for hardware support."},
+  {"question": "How do I connect to office Wi-Fi?", "answer": "Use your employee ID and password to connect to the 'ORG-GUEST' or 'ORG-SECURE' network."},
+  {"question": "What is the password policy?", "answer": "Passwords must be 8+ characters, include uppercase, lowercase, number, and symbol, and expire every 90 days."},
+  {"question": "How do I access files remotely?", "answer": "Use the company VPN after completing cybersecurity training."},
+  {"question": "How do I get VPN access?", "answer": "Complete the online cybersecurity module and submit a request via the IT portal."},
+  {"question": "My printer is not working.", "answer": "Check if the printer is online. If not, raise a ticket with IT support."},
+  {"question": "How do I set up my official email on mobile?", "answer": "Use Microsoft Outlook app with your org email and follow the auto-setup steps."},
+  {"question": "Is personal device usage allowed?", "answer": "Personal devices can be used for internet, but not for storing official data."},
+  {"question": "What to do if I lose my laptop?", "answer": "Report immediately to IT and admin within 24 hours."},
+  {"question": "How do I request a new laptop?", "answer": "Submit a hardware request via the IT portal with justification and manager approval."},
+  {"question": "Can I use USB drives?", "answer": "Only company-issued encrypted USB drives are allowed for data transfer."},
+  {"question": "How do I report a phishing email?", "answer": "Forward it to phishing@org.in and delete it immediately."},
+  {"question": "What is two-factor authentication?", "answer": "2FA adds an extra layer of security using your password and a one-time code sent to your registered email."},
+  {"question": "How do I enable 2FA?", "answer": "Go to 'Security Settings' in your account portal and follow the setup steps."},
+  {"question": "My screen is frozen.", "answer": "Try Ctrl+Alt+Del. If unresponsive, restart the system and raise a ticket if issue persists."},
+  {"question": "How do I access shared drives?", "answer": "Map network drives using the path provided by your department head."},
+  {"question": "Is Zoom allowed for meetings?", "answer": "Only the official enterprise Zoom account provided by IT should be used."},
+
+  
+  {"question": "When is the annual day?", "answer": "Annual day is held every December. Family participation is encouraged."},
+  {"question": "Is there a sports day?", "answer": "Yes, sports day is organized every March with inter-department competitions."},
+  {"question": "How are company events announced?", "answer": "Events are announced every Monday via email and the internal notice board."},
+  {"question": "Can I bring family to events?", "answer": "Yes, family members are welcome at annual day, Diwali, and Christmas events."},
+  {"question": "What events are held during Diwali?", "answer": "Diwali celebrations include a half-day, cultural program, and lunch for all employees."},
+  {"question": "Are there training workshops?", "answer": "Yes, technical and soft skills workshops are held monthly. Check the HR portal for schedules."},
+  {"question": "When is the town hall meeting?", "answer": "Town hall meetings are held on the last Friday of every month."},
+  {"question": "How do I volunteer for events?", "answer": "Register your interest via the 'Events' section in the HR portal."},
+  {"question": "Is there a blood donation camp?", "answer": "Yes, voluntary blood donation camps are organized twice a year in collaboration with local hospitals."},
+  {"question": "Are there employee recognition awards?", "answer": "Yes, awards for excellence are given quarterly in categories like Innovation, Service, and Teamwork."},
+
+  
+  {"question": "What are office working hours?", "answer": "Office hours are 9:00 AM to 5:30 PM, Monday to Friday."},
+  {"question": "Is late arrival allowed?", "answer": "Late arrival beyond 9:30 AM requires prior manager approval."},
+  {"question": "Where is the cafeteria?", "answer": "The cafeteria is on the ground floor, open from 8:30 AM to 3:00 PM."},
+  {"question": "How do I get a parking slot?", "answer": "Submit a parking request via the admin portal. Allocation is based on seniority and availability."},
+  {"question": "What to do if I lose my ID card?", "answer": "Report to admin immediately. A replacement fee of ₹100 applies."},
+  {"question": "Do I need to wear my ID card?", "answer": "Yes, ID cards must be worn visibly at all times inside the premises."},
+  {"question": "Where is first aid available?", "answer": "First aid kits are available at the admin office and every floor."},
+  {"question": "Can I use personal appliances?", "answer": "Personal electrical appliances like heaters or kettles require prior admin approval."},
+  {"question": "Where can I smoke?", "answer": "Smoking is allowed only in the designated zone outside the main gate."},
+  {"question": "How do I book a conference room?", "answer": "Book via the 'Room Booking' module in the admin portal."},
+  {"question": "Is there a guest policy?", "answer": "Visitors must register at reception and wear a visitor badge at all times."},
+
+
+  {"question": "What is the data security policy?", "answer": "All official data must be stored on company servers. Sharing via personal email is prohibited."},
+  {"question": "Is social media posting allowed?", "answer": "Do not share internal information on social media without prior approval."},
+  {"question": "What is the anti-harassment policy?", "answer": "The organization has zero tolerance for harassment. Report incidents to the ICC (Internal Complaints Committee)."},
+  {"question": "How do I report misconduct?", "answer": "Use the anonymous whistleblower portal or contact the Ethics Officer."},
+  {"question": "Is alcohol allowed on campus?", "answer": "No, consumption of alcohol is strictly prohibited on company premises."},
+
+ 
+  {"question": "How do I update my address?", "answer": "Update your residential address in the HR portal under 'Personal Details'."},
+  {"question": "Can I take a sabbatical?", "answer": "Sabbatical leave may be granted for higher studies with 3 months’ notice and approval."},
+  {"question": "What is the holiday list?", "answer": "The official holiday list is published every December for the next year on the HR portal."},
+  {"question": "How many public holidays are there?", "answer": "There are 14 public holidays as per government notification, plus 5 optional holidays."},
+  {"question": "Can I work overtime?", "answer": "Overtime requires prior approval and is compensated as per policy."},
+  {"question": "How do I resign?", "answer": "Submit resignation letter via HR portal with 3 months’ notice period."},
+  {"question": "Is there a canteen subsidy?", "answer": "Yes, employees get a 50% subsidy on cafeteria meals up to ₹100 per day."},
+  {"question": "How do I apply for transfer?", "answer": "Submit transfer request via HR portal with justification and HOD approval."},
+  {"question": "What is the medical insurance coverage?", "answer": "Employees and dependents are covered under a group health insurance policy of ₹5 lakhs."},
+  {"question": "How do I claim medical insurance?", "answer": "Submit bills and discharge summary via the insurance portal within 15 days of treatment."},
+  {"question": "Is there a library?", "answer": "Yes, the central library is on the 3rd floor with technical and general books."},
+  {"question": "Can I use the gym?", "answer": "Yes, the gym is open from 6–8 AM and 6–8 PM. Register at admin to get access."},
+  {"question": "How do I get a NOC for higher studies?", "answer": "Apply via HR portal with admission proof and study leave request."},
+  {"question": "What is the policy on dual employment?", "answer": "Dual employment is strictly prohibited without prior written permission."},
+  {"question": "How do I get my experience certificate?", "answer": "Request it via HR portal after serving notice period and clearance."},
+  {"question": "Is there a crèche facility?", "answer": "Yes, crèche is available for children aged 6 months to 6 years."},
+  {"question": "How do I apply for festival advance?", "answer": "Festival advance can be applied via payroll portal 30 days before the festival."},
+  {"question": "What is the policy on gifts?", "answer": "Accepting gifts from vendors or clients above ₹500 requires disclosure to Ethics Committee."},
+  {"question": "Can I take leave for exams?", "answer": "Exam leave (without pay) may be granted with proof of enrollment and prior approval."},
+  {"question": "How do I check my payslip?", "answer": "Download your payslip from the payroll portal at the end of every month."},
+
+  
+  {"question": "What is the meaning of life?", "answer": "42! But seriously, focus on your work-life balance 😊"},
+  {"question": "Do you like humans?", "answer": "I admire your creativity and resilience!"},
+  {"question": "Can you sing?", "answer": "I’d rather help you with policies than sing off-key!"},
+  {"question": "What’s your favorite policy?", "answer": "The one that helps you the most!"},
+  {"question": "Are you smart?", "answer": "I know a lot about policies — but you’re the real expert at your job!"},
+  {"question": "Will AI take my job?", "answer": "AI is a tool to assist you — not replace your judgment and experience."},
+  {"question": "What should I do today?", "answer": "Check your HR portal for pending actions and enjoy your coffee!"},
+  {"question": "How’s the weather?", "answer": "I don’t check weather — but I hope your day is sunny and productive!"},
+  {"question": "What time is it?", "answer": "Check your system clock — I’m busy helping you!"},
+  {"question": "Are you real?", "answer": "I’m as real as your next policy query!"},
+  {"question": "Can you speak Hindi?", "answer": "I understand English for now. But I’m learning!"},
+  {"question": "What’s new?", "answer": "Check the HR portal for the latest policy updates!"},
+  {"question": "I’m bored", "answer": "Why not explore the training modules on the HR portal?"},
+  {"question": "You’re awesome!", "answer": "Thank you! You’re pretty awesome too!"},
+  {"question": "Thanks", "answer": "You’re welcome! Feel free to ask more questions."},
+
+
+  {
+    "questions": [
+      "What are HR policies?",
+      "List HR policies",
+      "Show HR policies",
+      "Tell me HR policies",
+      "What HR policies does the company have?"
+    ],
+    "answer": "Here are some key HR policies:\n1. Leave Policy\n2. Attendance & Working Hours\n3. Maternity and Paternity Leave\n4. Performance Appraisal\n5. Employee Grievance Policy"
+  },
+  {
+    "questions": [
+      "What are IT policies?",
+      "List IT policies",
+      "Show IT policies",
+      "Tell me IT policies",
+      "What IT policies does the company follow?"
+    ],
+    "answer": "Here are the main IT policies:\n1. Password & Security Policy\n2. Email Usage Policy\n3. Hardware & Software Request Policy\n4. VPN & Remote Access Policy\n5. Data Backup and Cybersecurity Policy"
+  },
+  {
+    "questions": [
+      "What are Admin policies?",
+      "List Admin policies",
+      "Show Admin policies",
+      "Tell me Admin policies",
+      "What Admin policies are there?"
+    ],
+    "answer": "Here are some important Admin policies:\n1. Office Timings & Attendance\n2. ID Card & Visitor Policy\n3. Parking & Facility Management\n4. Travel & Reimbursement Policy\n5. Event and Meeting Room Booking Policy"
+  },
+  {
+    "questions": [
+      "What are Security policies?",
+      "List Security policies",
+      "Show Security policies",
+      "Tell me Security policies",
+      "What are the company security policies?"
+    ],
+    "answer": "The major Security policies include:\n1. Information Security Policy\n2. Access Control & Authentication\n3. Data Privacy and Protection\n4. Cybersecurity Awareness\n5. Physical Security & Surveillance Policy"
+  },
+  {
+    "questions": [
+      "List all company policies",
+      "What are the company policies?",
+      "Show all company policies",
+      "Tell me all policies",
+      "What are all organization policies?"
+    ],
+    "answer": "Our organization follows several policy categories:\n1. HR Policies\n2. IT Policies\n3. Admin Policies\n4. Security Policies\n5. General Conduct & Ethics Policies"
+  }
+
+
+]

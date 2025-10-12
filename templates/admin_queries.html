@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin - Contact Queries</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; }
+        th { background-color: #4CAF50; color: white; }
+        tr:nth-child(even){background-color: #f2f2f2;}
+    </style>
+</head>
+<body>
+    <h1>Contact Queries</h1>
+    {% if queries %}
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Subject</th>
+                <th>Message</th>
+                <th>Date Submitted</th>
+            </tr>
+            {% for q in queries %}
+            <tr>
+                <td>{{ q.id }}</td>
+                <td>{{ q.name }}</td>
+                <td>{{ q.email }}</td>
+                <td>{{ q.subject }}</td>
+                <td>{{ q.message }}</td>
+                <td>{{ q.date_submitted.strftime('%Y-%m-%d %H:%M:%S') }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    {% else %}
+        <p>No queries submitted yet.</p>
+    {% endif %}
+</body>
+</html>
